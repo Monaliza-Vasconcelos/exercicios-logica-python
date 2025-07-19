@@ -1,0 +1,2 @@
+# exercicios-logica-python
+
