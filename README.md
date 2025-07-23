@@ -10,5 +10,5 @@ Curso de Lógica com Python – UECE/Dell
 Este repositório serve como prática dos fundamentos da programação e também como portfólio para acompanhar minha evolução como futura desenvolvedora back-end.
 
 ## Tecnologias utilizadas
-Python (linguagem de programação) Jupyter Notebook (ambiente interativo para desenvolvimento de código) Anaconda (distribuição que facilita a instalação e gerenciamento do Jupyter e bibliotecas Python)
+Python (linguagem de programação) Visual Studio Code (ambiente interativo para desenvolvimento de código)
 
