@@ -1,0 +1,7 @@
+N = str(input('Digite um número entre 0 e 9999 '))
+print('Analisando o número {}...'.format(N.zfill(4)))
+N = N.zfill(4)
+print('Unidade: {}'.format(N[3]))
+print('Dezena: {}'.format(N[2]))
+print('Centena: {}'.format(N[1]))
+print('Milhar: {}'.format(N[0]))

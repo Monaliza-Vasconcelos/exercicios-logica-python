@@ -1,0 +1,6 @@
+frase = str(input('Digite uma frase qualquer: ')).lower().strip()
+print('Quantas vezes aparece a letra (a)? ',frase.count('a'))
+contagem = int(frase.find('a'))
+print('A primeira posição que aparece a letra (a) é na {}º posição'.format(contagem+1))
+contagem_reversa = int(frase.rfind('a'))
+print('A última posição que aparece a letra (a) é na {}º posição'.format(contagem_reversa+1))
