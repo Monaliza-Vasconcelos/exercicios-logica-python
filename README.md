@@ -2,8 +2,7 @@
 
 Este repositório reúne os exercícios que desenvolvi durante meus estudos em lógica de programação com foco em Python. Os códigos foram criados com base nos seguintes cursos:
 
-Curso de Lógica de Programação – Curso em Vídeo
-Curso de Lógica com Python – UECE/Dell
+Curso de python 3 – Curso em Vídeo
 
 ## Objetivo
 
