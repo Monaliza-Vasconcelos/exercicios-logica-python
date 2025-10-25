@@ -7,13 +7,12 @@
 #O arquivo de saída deve conter a mensagem "Total: R$ " seguido pelo valor a ser pago, com 2 casas após o ponto decimal.
 
 
-codigo = int(input())
-quant_de_itens = int(input())
+codigo,quant_de_itens = map(int,input().split())
 if codigo == 1:
     valor_a_pagar = (quant_de_itens * 4.00)
     print(f'Total: R$ {valor_a_pagar:.2f}')
 elif codigo == 2:
-    valor_a_pagar = (quant_de_itens *4.50)
+    valor_a_pagar = (quant_de_itens * 4.50)
     print(f'Total: R$ {valor_a_pagar:.2f}')
 elif codigo == 3:
     valor_a_pagar = (quant_de_itens * 5.00)
